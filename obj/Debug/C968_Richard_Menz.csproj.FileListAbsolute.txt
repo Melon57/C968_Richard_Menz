@@ -1,0 +1,14 @@
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\bin\Debug\C968_Richard_Menz.exe.config
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\bin\Debug\C968_Richard_Menz.exe
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\bin\Debug\C968_Richard_Menz.pdb
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Add_Part.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Add_Product.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Main.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Modify_Part.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Modify_Product.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.Properties.Resources.resources
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.csproj.GenerateResource.cache
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.csproj.CoreCompileInputs.cache
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.exe
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.pdb
+C:\Users\Richard Menz\source\repos\C968_Richard_Menz\obj\Debug\C968_Richard_Menz.csprojAssemblyReference.cache
